@@ -1,0 +1,54 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.engineeringshed.com" resolutions="1x" timestamp="1489281563498">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3816705524" ref="contact:services:projects:index:about"/>
+    <file name="contact.css" crc="3968815105" ref="contact"/>
+    <file name="services.css" crc="366214129" ref="services"/>
+    <file name="projects.css" crc="4244061295" ref="projects"/>
+    <file name="index.css" crc="3808999779" ref="index"/>
+    <file name="about.css" crc="249096385" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:contact:services:about"/>
+    <file name="museutils.js" crc="4232573551" ref="index:projects:contact:services:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:contact:services:about"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:projects:contact:services:about"/>
+    <file name="webpro.js" crc="3770351119" ref="index:projects:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:projects"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:projects"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:projects"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:projects:contact:services:about"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:projects:contact:services:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projects:contact:services:about"/>
+    <file name="require.js" crc="4234670167" ref="index:projects:contact:services:about"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u992.php" crc="3973390678" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="water_turbine_edited.jpg" crc="4111751510" seo="true" ref="index:projects:contact:services:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="gpb_circling_earth.jpg" crc="207366422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="space.jpg" crc="4195812039" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="road-crop-u2782.jpg" crc="4285410927" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3767735655" seo="true" mt="1489278415132" redirect="true"/>
+  <file name="projects.html" crc="4276523741" seo="true" mt="1489280888697" redirect="true"/>
+  <file name="contact.html" crc="4048082469" seo="true" mt="1489277040325" redirect="true"/>
+  <file name="services.html" crc="467874804" seo="true" mt="1489277040325" redirect="true"/>
+  <file name="about.html" crc="3925749859" seo="true" mt="1489277040325" redirect="true"/>
+</manifest>
