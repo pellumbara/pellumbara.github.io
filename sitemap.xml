@@ -1,57 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.engineeringshed.com/index.html</loc>
-    <lastmod>2017-03-12</lastmod>
+    <loc>http://pellumbara.cf/index.html</loc>
+    <lastmod>2017-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/water_turbine_edited.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/mylogo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/gpb_circling_earth.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/flag_of_albaniasvg-crop-u1615.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/space.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/2-three%20phase.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.engineeringshed.com/projects.html</loc>
-    <lastmod>2017-03-12</lastmod>
+    <loc>http://pellumbara.cf/about.html</loc>
+    <lastmod>2017-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/water_turbine_edited.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/mylogo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/road-crop-u2782.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/flag_of_albaniasvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/pencil-crop-u4435.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/wrench-20-icon-270x250.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/images.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.engineeringshed.com/contact.html</loc>
-    <lastmod>2017-03-12</lastmod>
+    <loc>http://pellumbara.cf/projects.html</loc>
+    <lastmod>2017-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/water_turbine_edited.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/mylogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/flag_of_albaniasvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20160923_100901_li-crop-u2731.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20150422_151039-crop-u2923.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20150519_103013-crop-u2949.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20150521_130007_richtone(hdr)-crop-u2975.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20150521_130016_richtone(hdr)-crop-u3001.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20150918_112134-crop-u3027.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20150923_095303-crop-u3053.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20160519_120949-crop-u3079.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/thethi-shkoder_001.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/lura-lakes-albania.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/foto-primare1-crop-u3157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/foto-primare1%20(1)-crop-u3183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/12146-crop-u3209.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.engineeringshed.com/services.html</loc>
-    <lastmod>2017-03-12</lastmod>
+    <loc>http://pellumbara.cf/blog.html</loc>
+    <lastmod>2017-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/water_turbine_edited.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/mylogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/flag_of_albaniasvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/img-20150519-wa0002-crop-u1800.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/sheshi_skenderbej%20_old-crop-u1805.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/december_movement_1990-crop-u1808.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20150610_205807614x346.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20161002_175132.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.engineeringshed.com/about.html</loc>
-    <lastmod>2017-03-12</lastmod>
+    <loc>http://pellumbara.cf/contact.html</loc>
+    <lastmod>2017-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.engineeringshed.com/images/water_turbine_edited.jpg</image:loc>
+      <image:loc>http://pellumbara.cf/images/mylogo.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/flag_of_albaniasvg.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://pellumbara.cf/services.html</loc>
+    <lastmod>2017-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/mylogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/flag_of_albaniasvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/motor_png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/current_sensor.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/rsix120.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/3-phase2_edited.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pellumbara.cf/images/20160923_101350.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://pellumbara.cf/assets/20161002_175132.jpg</loc>
+    <lastmod>2017-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://pellumbara.cf/assets/20150629_151323.jpg</loc>
+    <lastmod>2016-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://pellumbara.cf/assets/enfield_fields.jpg</loc>
+    <lastmod>2017-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -1,54 +1,158 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.engineeringshed.com" resolutions="1x" timestamp="1489281563498">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pellumbara.cf" resolutions="1x" timestamp="1490052654708">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3816705524" ref="contact:services:projects:index:about"/>
-    <file name="contact.css" crc="3968815105" ref="contact"/>
-    <file name="services.css" crc="366214129" ref="services"/>
-    <file name="projects.css" crc="4244061295" ref="projects"/>
-    <file name="index.css" crc="3808999779" ref="index"/>
-    <file name="about.css" crc="249096385" ref="about"/>
+    <file name="site_global.css" crc="445041713"/>
+    <file name="master_interior.css" crc="4093034961" ref="about:blog:services:contact:projects"/>
+    <file name="master_main.css" crc="220178320" ref="index:about:blog:services:contact:projects"/>
+    <file name="index.css" crc="525212404" ref="index"/>
+    <file name="about.css" crc="4242746746" ref="about"/>
+    <file name="blog.css" crc="4158356430" ref="blog"/>
+    <file name="services.css" crc="237959648" ref="services"/>
+    <file name="contact.css" crc="4274883451" ref="contact"/>
+    <file name="iefonts_contact.css" crc="123357790" ref="contact"/>
+    <file name="projects.css" crc="4080893818" ref="projects"/>
+  </folder>
+  <folder name="assets">
+    <file name="20150629_151323.jpg" crc="50476278" seo="true" mt="1471012534000"/>
+    <file name="enfield_fields.jpg" crc="3893196918" seo="true" mt="1489956394000"/>
+    <file name="20161002_175132.jpg" crc="4218875070" seo="true" mt="1489339212000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:contact:services:about"/>
-    <file name="museutils.js" crc="4232573551" ref="index:projects:contact:services:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projects:contact:services:about"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:projects:contact:services:about"/>
-    <file name="webpro.js" crc="3770351119" ref="index:projects:contact"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index:projects"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index:projects"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index:projects"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:projects:contact:services:about"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:projects:contact:services:about"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:projects:contact:services:about"/>
-    <file name="require.js" crc="4234670167" ref="index:projects:contact:services:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:projects:blog:contact:services"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:projects:blog:contact:services"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:projects:blog:contact:services"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:about:projects:blog:contact:services"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:projects:blog:contact:services"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:projects:blog:contact:services"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:projects:blog:contact:services"/>
+    <file name="require.js" crc="4234670167" ref="index:about:projects:blog:contact:services"/>
+    <file name="webpro.js" crc="3770351119" ref="projects:blog:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="projects:blog"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="projects:blog"/>
+    <file name="touchswipe.js" crc="3912873526" ref="projects:blog"/>
     <file name="form_check.php" crc="3841221102" ref="contact"/>
     <file name="form_throttle.php" crc="4048049783" ref="contact"/>
     <file name="form_process.php" crc="3899230280" ref="contact"/>
-    <file name="form-u992.php" crc="3973390678" ref="contact"/>
+    <file name="form-u4257.php" crc="4257424416" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="water_turbine_edited.jpg" crc="4111751510" seo="true" ref="index:projects:contact:services:about">
+    <file name="vxtiehx.gif" crc="3874767491" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="services" alt=""/>
+    </file>
+    <file name="mylogo.png" crc="145200896" seo="true" ref="index:about:projects:blog:contact:services">
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="projects" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="contact" alt=""/>
-    </file>
-    <file name="gpb_circling_earth.jpg" crc="207366422" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="space.jpg" crc="4195812039" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="road-crop-u2782.jpg" crc="4285410927" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
+    </file>
+    <file name="flag_of_albaniasvg-crop-u1615.png" crc="194127717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-three phase.gif" crc="42461420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="flag_of_albaniasvg.png" crc="3956120208" seo="true" ref="about:projects:blog:contact:services">
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="pencil-crop-u4435.png" crc="3944750190" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="wrench-20-icon-270x250.png" crc="3768068821" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="images.jpg" crc="156095368" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20160923_100901_li-crop-u2731.jpg" crc="4132079760" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="projects"/>
+    <file name="20150422_151039-crop-u2923.jpg" crc="1321137" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="20150519_103013-crop-u2949.jpg" crc="4234740242" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="20150521_130007_richtone(hdr)-crop-u2975.jpg" crc="354080832" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="20150521_130016_richtone(hdr)-crop-u3001.jpg" crc="3939158299" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="20150918_112134-crop-u3027.jpg" crc="4001437362" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="20150923_095303-crop-u3053.jpg" crc="523016930" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="20160519_120949-crop-u3079.jpg" crc="513376935" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="thethi-shkoder_001.jpg" crc="267630622" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="lura-lakes-albania.jpg" crc="232788374" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="foto-primare1-crop-u3157.jpg" crc="4121099332" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="foto-primare1 (1)-crop-u3183.jpg" crc="4121099332" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="12146-crop-u3209.jpg" crc="3771362397" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="projects"/>
+    <file name="20160923_100901_li.jpg" crc="3786169636" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="img-20150519-wa0002-crop-u1800.jpg" crc="4179838292" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="sheshi_skenderbej _old-crop-u1805.jpg" crc="4138858707" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="december_movement_1990-crop-u1808.jpg" crc="478486188" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="20150610_205807614x346.jpg" crc="4041899051" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="20150610_205807.jpg" crc="358594925" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="20161002_175132.jpg" crc="4169822118" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="motor_png.png" crc="4120484420" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="current_sensor.jpg" crc="4037839216" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="rsix120.jpg" crc="2153137" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="3-phase2_edited.jpg" crc="4005149607" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="20160923_101350.jpg" crc="4125381319" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3767735655" seo="true" mt="1489278415132" redirect="true"/>
-  <file name="projects.html" crc="4276523741" seo="true" mt="1489280888697" redirect="true"/>
-  <file name="contact.html" crc="4048082469" seo="true" mt="1489277040325" redirect="true"/>
-  <file name="services.html" crc="467874804" seo="true" mt="1489277040325" redirect="true"/>
-  <file name="about.html" crc="3925749859" seo="true" mt="1489277040325" redirect="true"/>
+  <file name="index.html" crc="174526327" seo="true" mt="1490047486381" redirect="true"/>
+  <file name="about.html" crc="3946101760" seo="true" mt="1490052078193" redirect="true"/>
+  <file name="projects.html" crc="326557784" seo="true" mt="1490052078193" redirect="true"/>
+  <file name="blog.html" crc="8288219" seo="true" mt="1490052078193" redirect="true"/>
+  <file name="contact.html" crc="293007888" seo="true" mt="1490052078193" redirect="true"/>
+  <file name="services.html" crc="3775552964" seo="true" mt="1490052078193" redirect="true"/>
 </manifest>
